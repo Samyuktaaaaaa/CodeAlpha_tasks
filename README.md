@@ -1,2 +1,2 @@
 # CodeAlpha_tasks
-CodeAlpha Machine Learning Internship Tasks and Projects
+CodeAlpha Machine Learning Internship Tasks
